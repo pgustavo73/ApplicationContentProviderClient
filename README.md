@@ -12,5 +12,5 @@ It can even be updated in real-time
 
 Feel free to look, I am open to tips and suggestions.
 
-# Screens
+# Screen
 <img src="./image/telas.jpg" />
