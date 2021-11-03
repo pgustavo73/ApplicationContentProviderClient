@@ -1,15 +1,16 @@
-# ContentPtoviderClient App com Kotlin 
+# ContentPtoviderClient App with Kotlin 
 
-OLA"  bem vindo 
+Hello welcome
 
-Este foi mais um dos módulos do BootCAmp da  Everis na DIO.
+This was another one of Everis' Bootcamp modules at DIO.
 
-Este app foi desenvolvido como exercício de compartilhamento de um Content Provide.
+This app was developed as an exercise in sharing Content Provide.
 
-Neste app ele acessa os dados de um content Provide de um outro app e mostra na tela.
+This app accesses the data of content Provided from another app and shows it on the screen.
 
-Inclusive pode ser atualizado em tempo real
+It can even be updated in real-time
 
-Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
+Feel free to look, I am open to tips and suggestions.
 
+# Screens
 <img src="./image/telas.jpg" />
