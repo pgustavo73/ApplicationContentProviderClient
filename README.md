@@ -1,4 +1,4 @@
-# ContentPtoviderClient App with Kotlin 
+# ContentProviderClient App with Kotlin 
 
 Hello welcome
 
